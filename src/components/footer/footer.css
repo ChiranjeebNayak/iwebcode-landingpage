@@ -1,0 +1,50 @@
+.footer{
+    margin-top: 15vh;
+    
+}
+.footer .row{
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    justify-content: center;
+    text-align: center;
+    border-top:  2px solid black;
+}
+.footer .row .form-control{
+    width: 380px;
+}
+.footer .row .btn{
+    width: 70px;
+    margin-left: 10px;
+    background:#4E4E4E;
+}
+.footer .row .btn .arrow{
+    color: white;
+}
+.footer .row .col .company{
+text-align: left;
+}
+.footer .row .col .company span{
+    margin-right: 30px;
+}
+.footer .row .col .company .logo{
+border: 2px solid black;
+border-radius: 50px;
+padding: 0px 10px;
+padding-bottom: 2px;
+}
+
+
+
+.footer .row ul{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+}
+.footer .row ul li{
+    margin-left: 3vw;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.footer .row ul li:hover{
+    color: royalblue;
+}

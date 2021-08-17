@@ -1,0 +1,71 @@
+.sayhello {
+    margin-top: 15vh;
+}
+.sayhello .title{
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 50px;
+    padding-bottom: 10px;
+    color: black;
+    border-bottom: 2px solid black;
+}
+.sayhello .row{
+  padding-top: 5vh;
+}
+
+.sayhello .row .col .sayhello-title{
+  width: 500px;
+  margin-top: 3vh;
+  text-align: left;
+}
+
+.sayhello .row .col .sayhello-title h4{
+font-size: 25 px;
+line-height: 34px;
+padding: 10px;
+}
+
+.sayhello .row .col .sayhello-subtitle{
+  width: 500px;
+  margin-top: 10vh;
+  text-align: left;
+}
+
+.sayhello .row .col .sayhello-subtitle h4{
+font-size: 25 px;
+line-height: 34px;
+padding: 10px;
+}
+
+.sayhello .row .col label{
+  margin: 10px;
+}
+
+.sayhello .row .col input,select{
+  width: 256px;
+  padding: 5px;
+}
+.sayhello .row .message{
+  padding-left: 1vw;
+}
+.sayhello .row .col textarea{
+  width: 540px;
+  height: 144px;
+  padding-left: 1vw;
+}
+.sayhello .row .col .form-submit{
+  padding-top: 1vh;
+}
+.sayhello .row .col button{
+  border: 1px solid black;
+}
+.sayhello .row .blog{
+  padding: 5vh 0vh;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+.sayhello .row .blogcard{
+  border-right: 1px solid black;
+  padding: 20px;
+}
